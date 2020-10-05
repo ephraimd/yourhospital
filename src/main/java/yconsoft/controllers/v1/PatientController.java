@@ -16,6 +16,9 @@ import java.util.Date;
 import java.util.List;
 import java.util.Optional;
 
+/**
+ * Please note that All auth mechanisms have been disabled.
+ */
 @RestController
 @CrossOrigin("http://localhost")
 @RequestMapping(path = "/v1/patient")
